@@ -1,0 +1,36 @@
+header.solid{
+    border-style: solid;
+}
+
+#titre{
+    color: red;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container > div{
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img{
+    max-width: 650px;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: tomato;
+}
