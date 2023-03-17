@@ -2,8 +2,12 @@ header.solid{
     border-style: solid;
 }
 
+header{
+    background-color:  #F2C05F ;
+}
+
 #titre{
-    color: red;
+    color: #6ec1af;
 }
 
 .flex-container{
