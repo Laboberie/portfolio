@@ -5,7 +5,9 @@ header.solid{
 header{
     background-color:  #F2C05F ;
 }
-
+.test{
+    text-align: center;
+}
 #titre{
     color: #6ec1af;
 }
